@@ -1,0 +1,36 @@
+periode;subtype;type;subtype2;code;mj;kwh;m3;co2;opperv_vbo;isolatie_euro
+t/m 1945;Eengezinswoning;Rijwoning;gemiddeld;311332;45753;2295;1066;2405;102;11930
+t/m 1945;Meergezinswoning;Portiekwoning;gemiddeld;611332;25179;1474;565;1331;59;5018
+t/m 1945;Eengezinswoning;vrijstaande woning;vrijstaand;11132;62796;2828;1496;3287;130;15514
+t/m 1945;Eengezinswoning;2 onder 1 kap woning;2 onder 1 kap;21232;50799;2446;1194;2665;110;13401
+t/m 1945;Meergezinswoning;maisonnettewoning;gemiddeld;411332;35051;2028;789;1852;88;7090
+t/m 1945;Meergezinswoning;galerijwoning;gemiddeld;511332;26215;1723;569;1392;72;7098
+t/m 1945;Meergezinswoning;(overig) flatwoning;gemiddeld;711332;26989;1626;601;1429;67;6333
+1946-1964;Eengezinswoning;Rijwoning;gemiddeld;331332;40006;2008;932;2103;87;8406
+1946-1964;Meergezinswoning;Portiekwoning;gemiddeld;631332;27312;1608;612;1444;66;7781
+1946-1964;Eengezinswoning;vrijstaande woning;vrijstaand;13132;62796;2828;1496;3287;130;15514
+1946-1964;Eengezinswoning;2 onder 1 kap woning;2 onder 1 kap;23232;50799;2446;1194;2665;110;13401
+1946-1964;Meergezinswoning;maisonnettewoning;gemiddeld;431332;35051;2028;789;1852;88;7090
+1946-1964;Meergezinswoning;galerijwoning;gemiddeld;531332;26215;1723;569;1392;72;7098
+1946-1964;Meergezinswoning;(overig) flatwoning;gemiddeld;731332;26989;1626;601;1429;67;6333
+1965-1974;Eengezinswoning;Rijwoning;gemiddeld;341332;44367;2369;1019;2338;106;9546
+1965-1974;Meergezinswoning;Portiekwoning;gemiddeld;641332;28814;1703;645;1523;71;8404
+1965-1974;Eengezinswoning;vrijstaande woning;vrijstaand;14132;67484;3095;1602;3536;144;16872
+1965-1974;Eengezinswoning;2 onder 1 kap woning;2 onder 1 kap;24232;53066;2695;1233;2790;123;13978
+1965-1974;Meergezinswoning;maisonnettewoning;gemiddeld;441332;33363;2028;741;1766;88;6757
+1965-1974;Meergezinswoning;galerijwoning;gemiddeld;541332;35510;1374;869;1851;82;6787
+1965-1974;Meergezinswoning;(overig) flatwoning;gemiddeld;741332;35707;1292;883;1857;77;5385
+1975-1991;Eengezinswoning;Rijwoning;gemiddeld;351332;43770;2369;1002;2307;106;8757
+1975-1991;Meergezinswoning;Portiekwoning;gemiddeld;651332;28362;1685;634;1501;70;7084
+1975-1991;Eengezinswoning;vrijstaande woning;vrijstaand;15132;67438;3287;1581;3540;154;16497
+1975-1991;Eengezinswoning;2 onder 1 kap woning;2 onder 1 kap;25232;53101;2695;1234;2791;123;14232
+1975-1991;Meergezinswoning;maisonnettewoning;gemiddeld;451332;33231;1874;753;1755;80;6169
+1975-1991;Meergezinswoning;galerijwoning;gemiddeld;551332;27521;1646;614;1457;68;7903
+1975-1991;Meergezinswoning;(overig) flatwoning;gemiddeld;751332;28011;1685;624;1482;70;7893
+1992-2005;Eengezinswoning;Rijwoning;gemiddeld;361332;49097;3546;1033;2621;114;14388
+1992-2005;Meergezinswoning;Portiekwoning;gemiddeld;661332;32041;2423;663;1715;74;6613
+1992-2005;Eengezinswoning;vrijstaande woning;vrijstaand;16132;78487;5174;1702;4171;172;17587
+1992-2005;Eengezinswoning;2 onder 1 kap woning;2 onder 1 kap;26232;60165;4051;1296;3201;132;14396
+1992-2005;Meergezinswoning;maisonnettewoning;gemiddeld;461332;34955;2705;717;1874;84;6816
+1992-2005;Meergezinswoning;galerijwoning;gemiddeld;561332;32830;2564;671;1761;79;6113
+1992-2005;Meergezinswoning;(overig) flatwoning;gemiddeld;761332;34190;2649;701;1833;82;4279

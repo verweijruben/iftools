@@ -1,0 +1,10 @@
+Package: IFtool
+Type: Package
+Title: Functies voor alternatievenstudie IF
+Version: 0.1
+Date: 2016-03-25
+Author: Ruben Verweij
+Maintainer: <ruben.verweij@stedin.net>
+Description: More about what it does (maybe more than one line)
+License: Open
+LazyData: TRUE
